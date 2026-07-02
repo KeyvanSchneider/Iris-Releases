@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Mises à jour d’Iris</title>
+        <link>https://github.com/KeyvanSchneider/Iris-Releases</link>
+        <description>Nouvelles versions de l’application Iris pour macOS.</description>
+        <language>fr</language>
+        <item>
+            <title>Version 1.10</title>
+            <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <description sparkle:format="markdown"><![CDATA[
+# Iris 1.10
+
+- Ajout des mises à jour automatiques sécurisées avec Sparkle.
+- Ajout de la commande « Rechercher les mises à jour… ».
+- Application universelle pour les Mac Apple Silicon et Intel.
+- Correction du lancement avec le framework de mise à jour Sparkle.
+- Ajout du tri et des compteurs dans les favoris.
+- Améliorations de l’import Letterboxd et de l’interface.
+
+            ]]></description>
+            <pubDate>Thu, 02 Jul 2026 10:39:28 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.10.0/Iris-1.10.zip" length="3214302" type="application/octet-stream" sparkle:edSignature="pmWThEc69OySGmFwllEMBaDuCtmw5j4hC8ey8OomZKt2oyHmIX5+ZLBAi0R8YZc4iSD5P2yCfTcJAkpdfhh2AA==" />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
