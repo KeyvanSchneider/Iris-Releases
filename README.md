@@ -2,7 +2,7 @@
 
 Your personal library for bringing together movies, TV shows, and books in a single macOS application.
 
-<img width="1254" height="1254" alt="2f7fbde3-9443-4f89-8ad7-ec17f0ecbbc3" src="https://github.com/user-attachments/assets/063b9b1e-dcea-47e5-afa4-2853bc05fc95" />
+<img width="150" height="150" alt="2f7fbde3-9443-4f89-8ad7-ec17f0ecbbc3" src="https://github.com/user-attachments/assets/063b9b1e-dcea-47e5-afa4-2853bc05fc95" />
 
 ## Download
 
