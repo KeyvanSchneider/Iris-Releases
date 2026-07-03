@@ -6,31 +6,26 @@
         <description>Nouvelles versions de l’application Iris pour macOS.</description>
         <language>fr</language>
         <item>
-            <title>Version 1.11</title>
+            <title>Version 1.12</title>
             <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
             <description sparkle:format="markdown"><![CDATA[
-# Iris 1.11
+# Iris 1.12
 
-- Ajout du mode sombre, avec choix Système, Clair ou Sombre.
-- Les notes acceptent désormais toutes les demi-étoiles de 0,5 à 5.
-- Création de playlists personnalisées mélangeant films, séries et livres.
-- Noms libres avec emoji pour chaque playlist.
-- Couvertures de playlists locales ou recherchées dans TMDB, Open Library et ISBNdb.
-- Ajout et retrait rapide d’œuvres depuis les menus contextuels.
-- Correction du retour du mode sombre vers le mode clair dans la barre latérale.
-- Éditeur de playlist réorganisé avec saisie du nom simplifiée et emojis rapides.
-- Alignement précis des étoiles et demi-étoiles.
-- Accueil allégé : un bouton Ajouter discret suivi directement du fil des œuvres.
-- Boutons de recherche rouges, en cohérence avec l’identité d’Iris.
-- Interface disponible en français et en anglais, avec choix dans les Réglages.
-- Traduction anglaise complète des fenêtres, fiches, playlists, messages, erreurs et imports/exports.
-- Les recherches TMDB suivent désormais la langue choisie dans Iris.
+- Nouveau profil local personnalisable avec pseudo, photo et bannière.
+- Import d’une bannière locale ou recherche dans TMDB, Open Library et ISBNdb.
+- Tops 10 manuels et réordonnables pour les films, séries et livres.
+- Couronnes or, argent et bronze pour les trois premières places.
+- Affichage des playlists et des favoris directement sur le profil.
+- Nouvelle archive HTML autonome pour consulter sa bibliothèque sans Iris ni connexion Internet.
+- L’archive inclut les tableaux CSV, les images, les pièces jointes et une sauvegarde JSON.
+- Migration automatique des bibliothèques existantes vers le nouveau format de profil.
+- Améliorations de la traduction française et anglaise.
 
             ]]></description>
-            <pubDate>Fri, 03 Jul 2026 00:03:21 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.11.0/Iris-1.11.zip" length="3506313" type="application/octet-stream" sparkle:edSignature="+62vkOZbvNfyxgA4tP9H4EHXVYLapac8OFgWT3qXPrYWSuCFnLXUo3mneMUNOc+KOpBPh5xstK4AeXu6m0VEAw==" />
+            <pubDate>Fri, 03 Jul 2026 10:26:11 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.12.0/Iris-1.12.zip" length="3882410" type="application/octet-stream" sparkle:edSignature="EHwU0mzHS9XhdpmEldSulbzpdVGWqlKN5QMzMuntdUPF0t6CMPrbNtWuohY1v31CNLyWQoIb3jfDb2a55o1YDQ==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
