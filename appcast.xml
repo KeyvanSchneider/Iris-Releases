@@ -6,23 +6,31 @@
         <description>Nouvelles versions de l’application Iris pour macOS.</description>
         <language>fr</language>
         <item>
-            <title>Version 1.10</title>
+            <title>Version 1.11</title>
             <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
             <description sparkle:format="markdown"><![CDATA[
-# Iris 1.10
+# Iris 1.11
 
-- Ajout des mises à jour automatiques sécurisées avec Sparkle.
-- Ajout de la commande « Rechercher les mises à jour… ».
-- Application universelle pour les Mac Apple Silicon et Intel.
-- Correction du lancement avec le framework de mise à jour Sparkle.
-- Ajout du tri et des compteurs dans les favoris.
-- Améliorations de l’import Letterboxd et de l’interface.
+- Ajout du mode sombre, avec choix Système, Clair ou Sombre.
+- Les notes acceptent désormais toutes les demi-étoiles de 0,5 à 5.
+- Création de playlists personnalisées mélangeant films, séries et livres.
+- Noms libres avec emoji pour chaque playlist.
+- Couvertures de playlists locales ou recherchées dans TMDB, Open Library et ISBNdb.
+- Ajout et retrait rapide d’œuvres depuis les menus contextuels.
+- Correction du retour du mode sombre vers le mode clair dans la barre latérale.
+- Éditeur de playlist réorganisé avec saisie du nom simplifiée et emojis rapides.
+- Alignement précis des étoiles et demi-étoiles.
+- Accueil allégé : un bouton Ajouter discret suivi directement du fil des œuvres.
+- Boutons de recherche rouges, en cohérence avec l’identité d’Iris.
+- Interface disponible en français et en anglais, avec choix dans les Réglages.
+- Traduction anglaise complète des fenêtres, fiches, playlists, messages, erreurs et imports/exports.
+- Les recherches TMDB suivent désormais la langue choisie dans Iris.
 
             ]]></description>
-            <pubDate>Thu, 02 Jul 2026 10:39:28 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.10.0/Iris-1.10.zip" length="3214302" type="application/octet-stream" sparkle:edSignature="pmWThEc69OySGmFwllEMBaDuCtmw5j4hC8ey8OomZKt2oyHmIX5+ZLBAi0R8YZc4iSD5P2yCfTcJAkpdfhh2AA==" />
+            <pubDate>Fri, 03 Jul 2026 00:03:21 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.11.0/Iris-1.11.zip" length="3506313" type="application/octet-stream" sparkle:edSignature="+62vkOZbvNfyxgA4tP9H4EHXVYLapac8OFgWT3qXPrYWSuCFnLXUo3mneMUNOc+KOpBPh5xstK4AeXu6m0VEAw==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
