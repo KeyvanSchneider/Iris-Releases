@@ -6,24 +6,29 @@
         <description>Nouvelles versions de l’application Iris pour macOS.</description>
         <language>fr</language>
         <item>
-            <title>Version 1.14</title>
+            <title>Version 1.15</title>
             <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>1.14</sparkle:shortVersionString>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
             <description sparkle:format="markdown"><![CDATA[
-# Iris 1.14
+# Iris 1.15
 
-- Nouvelle identité visuelle rose cohérente avec la direction artistique d’Iris.
-- Tous les boutons principaux rouges adoptent désormais le rose Iris.
-- Les sélections, filtres, segments, cases cochées et contrôles actifs utilisent le nouvel accent rose.
-- Harmonisation des écrans d’ajout, de recherche, de profil, de playlists et de classement.
-- Mise à jour des dégradés de profil, des couvertures de playlists et des visuels de remplacement.
-- L’archive HTML exportée reprend également la nouvelle palette rose.
-- Les actions destructrices conservent le rouge système afin de rester clairement identifiables.
+- Suivi détaillé des séries, saison par saison et épisode par épisode.
+- Récupération automatique depuis TMDB des titres, résumés, dates, durées et images des épisodes.
+- Cases à cocher par épisode et actions pour marquer une saison entière comme vue.
+- Progression globale d’une série calculée automatiquement.
+- Suivi des livres par page actuelle et nombre total de pages.
+- Récupération du nombre de pages depuis Open Library ou ISBNdb lorsqu’il est disponible pour l’édition sélectionnée.
+- Nombre total de pages modifiable pour tenir compte des différentes éditions.
+- Mise à jour automatique du statut « En cours » ou « Terminé » selon la progression.
+- Conservation des épisodes déjà cochés lors de l’actualisation des données TMDB.
+- Migration transparente des bibliothèques créées avec les versions précédentes d’Iris.
+- Ajout de la progression des livres et séries aux exports CSV, JSON et HTML.
+- Interface complète disponible en français et en anglais.
 
             ]]></description>
-            <pubDate>Tue, 07 Jul 2026 15:25:36 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.14.0/Iris-1.14.zip" length="4658254" type="application/octet-stream" sparkle:edSignature="mpdoTyiTioL8l9iLkgELZvEl1oO819FdU16R5yIr1S0b44GNPWhzt3/azLZLlO5MuW3JHdzW6HVCHjaYO0iRDQ==" />
+            <pubDate>Tue, 07 Jul 2026 23:38:12 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.15.0/Iris-1.15.zip" length="4858182" type="application/octet-stream" sparkle:edSignature="XSZe/7JzhmUGBgUuAWkg1JCx+EcnKOZwFzlw9NNr1OWbZqIVb4Qx+4inuEiqt0/KpoLYtKqRe5UzqEBj4OvlDA==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
