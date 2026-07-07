@@ -6,26 +6,26 @@
         <description>Nouvelles versions de l’application Iris pour macOS.</description>
         <language>fr</language>
         <item>
-            <title>Version 1.12</title>
+            <title>Version 1.13</title>
             <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
             <description sparkle:format="markdown"><![CDATA[
-# Iris 1.12
+# Iris 1.13
 
-- Nouveau profil local personnalisable avec pseudo, photo et bannière.
-- Import d’une bannière locale ou recherche dans TMDB, Open Library et ISBNdb.
-- Tops 10 manuels et réordonnables pour les films, séries et livres.
-- Couronnes or, argent et bronze pour les trois premières places.
-- Affichage des playlists et des favoris directement sur le profil.
-- Nouvelle archive HTML autonome pour consulter sa bibliothèque sans Iris ni connexion Internet.
-- L’archive inclut les tableaux CSV, les images, les pièces jointes et une sauvegarde JSON.
-- Migration automatique des bibliothèques existantes vers le nouveau format de profil.
-- Améliorations de la traduction française et anglaise.
+- Les années s’affichent désormais sans séparateur : `2012` au lieu de `2,012`.
+- Ajout du bouton « Tout voir » sur les favoris du profil.
+- « Tout voir » ouvre la collection complète avec le filtre réinitialisé sur tous les types.
+- Protection contre l’ajout en double d’un film, d’une série ou d’un livre.
+- Détection des doublons via TMDB, ISBN, Open Library, Letterboxd, le titre, l’année et l’auteur.
+- Les résultats déjà présents sont clairement indiqués par la mention « Déjà ajouté ».
+- Les imports fusionnent avec l’œuvre existante au lieu de créer une copie.
+- Suppression de l’ancienne commande « Dupliquer » pour garantir une bibliothèque sans doublons.
+- Traductions française et anglaise mises à jour.
 
             ]]></description>
-            <pubDate>Fri, 03 Jul 2026 10:26:11 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.12.0/Iris-1.12.zip" length="3882410" type="application/octet-stream" sparkle:edSignature="EHwU0mzHS9XhdpmEldSulbzpdVGWqlKN5QMzMuntdUPF0t6CMPrbNtWuohY1v31CNLyWQoIb3jfDb2a55o1YDQ==" />
+            <pubDate>Tue, 07 Jul 2026 14:57:11 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.13.0/Iris-1.13.zip" length="4658282" type="application/octet-stream" sparkle:edSignature="NYFsS/K64ZeQHbRga2opRGaVIwxH390Wm+9+dzuexMzlHza0gUPtbGhWbU92nK7ILZaPbPX8eRhQH21GkHp1CQ==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
