@@ -6,26 +6,24 @@
         <description>Nouvelles versions de l’application Iris pour macOS.</description>
         <language>fr</language>
         <item>
-            <title>Version 1.13</title>
+            <title>Version 1.14</title>
             <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.14</sparkle:shortVersionString>
             <description sparkle:format="markdown"><![CDATA[
-# Iris 1.13
+# Iris 1.14
 
-- Les années s’affichent désormais sans séparateur : `2012` au lieu de `2,012`.
-- Ajout du bouton « Tout voir » sur les favoris du profil.
-- « Tout voir » ouvre la collection complète avec le filtre réinitialisé sur tous les types.
-- Protection contre l’ajout en double d’un film, d’une série ou d’un livre.
-- Détection des doublons via TMDB, ISBN, Open Library, Letterboxd, le titre, l’année et l’auteur.
-- Les résultats déjà présents sont clairement indiqués par la mention « Déjà ajouté ».
-- Les imports fusionnent avec l’œuvre existante au lieu de créer une copie.
-- Suppression de l’ancienne commande « Dupliquer » pour garantir une bibliothèque sans doublons.
-- Traductions française et anglaise mises à jour.
+- Nouvelle identité visuelle rose cohérente avec la direction artistique d’Iris.
+- Tous les boutons principaux rouges adoptent désormais le rose Iris.
+- Les sélections, filtres, segments, cases cochées et contrôles actifs utilisent le nouvel accent rose.
+- Harmonisation des écrans d’ajout, de recherche, de profil, de playlists et de classement.
+- Mise à jour des dégradés de profil, des couvertures de playlists et des visuels de remplacement.
+- L’archive HTML exportée reprend également la nouvelle palette rose.
+- Les actions destructrices conservent le rouge système afin de rester clairement identifiables.
 
             ]]></description>
-            <pubDate>Tue, 07 Jul 2026 14:57:11 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.13.0/Iris-1.13.zip" length="4658282" type="application/octet-stream" sparkle:edSignature="NYFsS/K64ZeQHbRga2opRGaVIwxH390Wm+9+dzuexMzlHza0gUPtbGhWbU92nK7ILZaPbPX8eRhQH21GkHp1CQ==" />
+            <pubDate>Tue, 07 Jul 2026 15:25:36 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.14.0/Iris-1.14.zip" length="4658254" type="application/octet-stream" sparkle:edSignature="mpdoTyiTioL8l9iLkgELZvEl1oO819FdU16R5yIr1S0b44GNPWhzt3/azLZLlO5MuW3JHdzW6HVCHjaYO0iRDQ==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
