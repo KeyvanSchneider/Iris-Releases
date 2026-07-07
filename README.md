@@ -2,7 +2,8 @@
 
 Your personal library for bringing together movies, TV shows, and books in a single macOS application.
 
-![image](https://github.com/user-attachments/assets/56f3df79-026c-4ce0-ab9d-efbba2ea5b89)
+<img width="150" height="150" alt="klsqndkqbsdq" src="https://github.com/user-attachments/assets/0ed62a0c-079d-458a-958c-9c5c14d0aa3f" />
+
 
 ## Download
 
@@ -61,10 +62,4 @@ The keys are stored in the secure macOS Keychain.
 ## Privacy
 
 Iris runs locally. Your library, comments, and attachments stay on your Mac.
-
-# Example
-
-<img width="1119" height="767" alt="Capture d’écran 2026-07-03 à 02 19 25" src="https://github.com/user-attachments/assets/154a8734-ccb4-4a5a-a25d-1f1f386b3191" />
-
-
 
