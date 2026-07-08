@@ -28,7 +28,7 @@
 
             ]]></description>
             <pubDate>Tue, 07 Jul 2026 23:38:12 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.15.0/Iris-1.15.zip" length="4858182" type="application/octet-stream" sparkle:edSignature="XSZe/7JzhmUGBgUuAWkg1JCx+EcnKOZwFzlw9NNr1OWbZqIVb4Qx+4inuEiqt0/KpoLYtKqRe5UzqEBj4OvlDA==" />
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.15.0/Iris.zip" length="4858182" type="application/octet-stream" sparkle:edSignature="XSZe/7JzhmUGBgUuAWkg1JCx+EcnKOZwFzlw9NNr1OWbZqIVb4Qx+4inuEiqt0/KpoLYtKqRe5UzqEBj4OvlDA==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
