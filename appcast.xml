@@ -6,29 +6,27 @@
         <description>Nouvelles versions de l’application Iris pour macOS.</description>
         <language>fr</language>
         <item>
-            <title>Version 1.15</title>
+            <title>Version 1.16</title>
             <link>https://github.com/KeyvanSchneider/Iris-Releases/releases</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
             <description sparkle:format="markdown"><![CDATA[
-# Iris 1.15
+# Iris 1.16
 
-- Suivi détaillé des séries, saison par saison et épisode par épisode.
-- Récupération automatique depuis TMDB des titres, résumés, dates, durées et images des épisodes.
-- Cases à cocher par épisode et actions pour marquer une saison entière comme vue.
-- Progression globale d’une série calculée automatiquement.
-- Suivi des livres par page actuelle et nombre total de pages.
-- Récupération du nombre de pages depuis Open Library ou ISBNdb lorsqu’il est disponible pour l’édition sélectionnée.
-- Nombre total de pages modifiable pour tenir compte des différentes éditions.
-- Mise à jour automatique du statut « En cours » ou « Terminé » selon la progression.
-- Conservation des épisodes déjà cochés lors de l’actualisation des données TMDB.
-- Migration transparente des bibliothèques créées avec les versions précédentes d’Iris.
-- Ajout de la progression des livres et séries aux exports CSV, JSON et HTML.
-- Interface complète disponible en français et en anglais.
+- Nouvel import automatique de films depuis un dossier local de vidéos.
+- Analyse récursive des fichiers MKV, MP4, M4V, AVI et MOV dans les sous-dossiers.
+- Nettoyage intelligent des noms de fichiers pour reconnaître le titre et l’année, y compris pour des titres comme « 1917 » ou « 2001 : L’Odyssée de l’espace ».
+- Recherche automatique de chaque film sur TMDB avec sélection de la meilleure correspondance.
+- Écran de vérification avant import pour corriger un titre ou choisir une autre correspondance.
+- Choix entre les statuts « À découvrir » et « Terminé » lors de l’import.
+- Détection des films déjà présents dans Iris et exclusion automatique des doublons.
+- Détection et exclusion des fichiers correspondant à des épisodes de séries.
+- Les fichiers vidéo restent à leur emplacement : Iris ne les copie, ne les déplace et ne les modifie jamais.
+- Interface d’import disponible en français et en anglais.
 
             ]]></description>
-            <pubDate>Tue, 07 Jul 2026 23:38:12 +0000</pubDate>
-            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.15.0/Iris.zip" length="4858182" type="application/octet-stream" sparkle:edSignature="XSZe/7JzhmUGBgUuAWkg1JCx+EcnKOZwFzlw9NNr1OWbZqIVb4Qx+4inuEiqt0/KpoLYtKqRe5UzqEBj4OvlDA==" />
+            <pubDate>Sun, 12 Jul 2026 14:22:40 +0000</pubDate>
+            <enclosure url="https://github.com/KeyvanSchneider/Iris-Releases/releases/download/v1.16.0/Iris.zip" length="5031430" type="application/octet-stream" sparkle:edSignature="P8ptjZ1WiN7pBdmc4YVr9mwkk0118zpMgh41RYmpBF1tvlZT8L0g/684iSfyiwSlYFbcT7vH8CrYnsgrpqNYDg==" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
